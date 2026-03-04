@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://teamaguilera.mylosoul.com/sitemap.xml

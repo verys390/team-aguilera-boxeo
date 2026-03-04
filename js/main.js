@@ -135,7 +135,7 @@
       )
       .join("");
 
-    entrenoCtaEl.href = `https://wa.me/5491166427090?text=${encodeURIComponent(data.wa)}`;
+    entrenoCtaEl.href = `https://wa.me/5491166427099?text=${encodeURIComponent(data.wa)}`;
   };
 
   // =========================================================
